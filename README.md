@@ -88,8 +88,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-(https://user-images.githubusercontent.com/95951046/145700776-323a0b1d-d5fe-49cc-a179-860c1ed0b243.PNG)
-G)
+![ELKDockerPS](https://user-images.githubusercontent.com/95951046/145701321-fc5321fb-23ee-4841-820c-05d474a9752f.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
@@ -135,6 +134,6 @@ As a **Bonus**, provide the specific commands the user will need to run to downl
 
 Your end result will be a fully functioning ELK Stack Server:
 
-[ELKStackmainpage](https://user-images.githubusercontent.com/95951046/145700798-4748a987-298c-44f4-912b-d5164cffaa4c.PNG)
+![ELKStackmainpage](https://user-images.githubusercontent.com/95951046/145701338-c8ffcd1d-9ccd-4bae-8b73-b041c0d76019.PNG)
 
 

@@ -4,8 +4,7 @@ OSU Bootcamp ElkStack Project 1
 
 The files in this repository were used to configure the network depicted below.
 
-(https://user-images.githubusercontent.com/95951046/145700750-d2623405-8300-484b-a1ee-ed78586141c2.PNG)
-sktop\AzureNetworkDiagram.PNG)
+![AzureNetworkDiagram](https://user-images.githubusercontent.com/95951046/145700747-0cec99fc-d500-4fe3-be6a-c204e5e01a0f.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -24,7 +23,7 @@ This document contains the following details:
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
-Load balancing ensures that the application will be highly adaptive, in addition to restricting transit to the network.![AzureNetworkDiagram](https://user-images.githubusercontent.com/95951046/145700747-0cec99fc-d500-4fe3-be6a-c204e5e01a0f.PNG)
+Load balancing ensures that the application will be highly adaptive, in addition to restricting transit to the network.
 
 - What aspect of security do load balancers protect?
   - The off-loading function of load balancers help to defend against distributed denial-of-service (DDoS) attacks.
